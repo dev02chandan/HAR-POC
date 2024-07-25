@@ -5,5 +5,3 @@ Vit - Vision Transformer by google. Finetuned for Image classification of human 
 
 
 
-https://github.com/user-attachments/assets/f46abaf6-df71-4f9f-86a2-34c571639209
-
